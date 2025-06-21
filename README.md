@@ -49,6 +49,15 @@ This project was developed during my internship as part of my MSc IT program. I 
 4. Enter the credential details.
 
 ## Project Overview or screenshots
+You can go through the scrrenshots to see the UI of the project.
+
+## 🤝 Let's Connect
+
+If you're a recruiter or developer interested in this project or collaboration:
+- 📧 Email: janvijadav159@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/janvi-jadav-6a5a57231
+
+  ✅ *This project demonstrates my capability to build full-stack applications and work across frontend and backend. It helped me learn how real systems are built, debugged, and improved.*
 
 
 
